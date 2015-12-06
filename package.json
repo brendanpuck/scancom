@@ -1,0 +1,12 @@
+{
+  "name": "ScannerComm",
+  "version": "0.0.0",
+  "description": "Use nodejs and serialport to communicate to a scanning receiver",
+  "main": "scancom.js",
+  "dependencies": {
+      "serialport": "*",
+      "prompt": "*"
+  },
+  "author": "Brendan Puck",
+  "license": "BSD"
+}
